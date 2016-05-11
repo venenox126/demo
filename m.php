@@ -20,5 +20,4 @@ print_r($client->listDBs());//能打印出数据库数组，看看有几个数�
 
 //cat xx.ar| mongorestore -h xxx --port xxx -u xxx -p xxx --drop --gzip --archive -vvvv --stopOnError
 //type hins1326347_logic_20160510082032.ar| mongorestore -h 127.0.0.1 --port 27017 --drop --gzip --archive -vvvv --stopOnError
-//11111
 ?>
